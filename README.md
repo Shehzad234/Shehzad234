@@ -9,7 +9,7 @@
 
 - ▶️ Visit our work on the Play Store [PlayStore 🎯](https://play.google.com/store/search?q=pub%3A%20Beta%20Byte%20Technology&c=apps)
 
-- 👨‍💻 All of my projects are available at [Projects 🏆](https://github.com/Shehzad234)
+- 👨‍💻 All of my projects are available at [Projects 🏆](https://github.com/Shehzad234?tab=repositories)
 
 - 🌐 Visit our website [BetaByte Technology 🚀](https://betabytetech.com/)
 
