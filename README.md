@@ -13,15 +13,15 @@
 
 - 🌐 Visit our website [BetaByte Technology 🚀](https://betabytetech.com/)
 
-- 📫 How to reach me **shehzadkhattak234@gmail.com** 📧
+- 📫 How to reach me **muzammil@betabytetech.com** 📧
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muzammil-shehzad-7551a6138/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muzammil-shehzad-7551a6138/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/betabytetech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/betabytetech" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc2vu1zumdmj0p0hhoxony1w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc2vu1zumdmj0p0hhoxony1w" height="30" width="40" /></a>
-<a href="/betabytetech.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Shehzad234/Shehzad234/main/beta%20byte%20icon.png" alt="betabytetech.com" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/muzammil-shehzad-7551a6138/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muzammil-shehzad-7551a6138/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/betabytetech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/betabytetech" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC2Vu1ZUMdMj0p0HHoxONy1w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc2vu1zumdmj0p0hhoxony1w" height="30" width="40" /></a>
+<a href="https://betabytetech.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Shehzad234/Shehzad234/main/beta%20byte%20icon.png" alt="betabytetech.com" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
