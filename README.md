@@ -1,7 +1,7 @@
 ![logo](https://raw.githubusercontent.com/Shehzad234/Shehzad234/main/cover.jpg)
 
 <h1 align="center">Hi 👋, I'm Muzammil Shehzad</h1>
-<h3 align="center">Software Engineer and CEO at Beta Byte Technology</h3>
+<h3 align="center">Software Engineer and Project Manager at Beta Byte Technology</h3>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Shehzad234/Shehzad234/main/Untitled%20design%20(1).gif">
 
